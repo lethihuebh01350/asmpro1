@@ -1,0 +1,7 @@
+C:\Users\Hp\Downloads\Programming1\Programming1\bin\Debug\Programming1.exe.config
+C:\Users\Hp\Downloads\Programming1\Programming1\bin\Debug\Programming1.exe
+C:\Users\Hp\Downloads\Programming1\Programming1\bin\Debug\Programming1.pdb
+C:\Users\Hp\Downloads\Programming1\Programming1\obj\Debug\Programming1.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Programming1\Programming1\obj\Debug\Programming1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Programming1\Programming1\obj\Debug\Programming1.exe
+C:\Users\Hp\Downloads\Programming1\Programming1\obj\Debug\Programming1.pdb
